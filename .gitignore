@@ -1,0 +1,10 @@
+# Compiled binaries
+linear_search
+*.out
+*.exe
+*.o
+*.obj
+
+# macOS specific files
+.DS_Store
+*.dSYM/
