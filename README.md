@@ -8,7 +8,7 @@ This repository contains clean, self-contained C++ implementations of fundamenta
 
 ### 🔍 Searching (`searching/`)
 *   [x] **Linear Search** — [linear_search.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/searching/linear_search.cpp)
-*   [ ] **Binary Search**
+*   [x] **Binary Search** — [binary_search.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/searching/binary_search.cpp)
 
 ### 📊 Sorting (`sorting/`)
 *   [ ] **Bubble Sort**
