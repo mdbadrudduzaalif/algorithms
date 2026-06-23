@@ -11,7 +11,7 @@ This repository contains clean, self-contained C++ implementations of fundamenta
 *   [x] **Binary Search** — [binary_search.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/searching/binary_search.cpp)
 
 ### 📊 Sorting (`sorting/`)
-*   [ ] **Bubble Sort**
+*   [x] **Bubble Sort** — [bubble_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/bubble_sort.cpp)
 *   [ ] **Selection Sort**
 *   [ ] **Insertion Sort**
 *   [ ] **Merge Sort**
