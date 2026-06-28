@@ -13,7 +13,7 @@ This repository contains clean, self-contained C++ implementations of fundamenta
 ### 📊 Sorting (`sorting/`)
 *   [x] **Bubble Sort** — [bubble_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/bubble_sort.cpp)
 *   [x] **Selection Sort** — [selection_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/selection_sort.cpp)
-*   [ ] **Insertion Sort**
+*   [x] **Insertion Sort** — [insertion_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/insertion_sort.cpp)
 *   [ ] **Merge Sort**
 *   [ ] **Quick Sort**
 
