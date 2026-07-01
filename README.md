@@ -15,7 +15,7 @@ This repository contains clean, self-contained C++ implementations of fundamenta
 *   [x] **Selection Sort** — [selection_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/selection_sort.cpp)
 *   [x] **Insertion Sort** — [insertion_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/insertion_sort.cpp)
 *   [x] **Merge Sort** — [merge_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/merge_sort.cpp)
-*   [ ] **Quick Sort**
+*   [x] **Quick Sort** — [quick_sort.cpp](file:///Users/mdbadrudduzaalif/Developer/codex/algorithms/sorting/quick_sort.cpp)
 
 ### 🔄 Recursion & Divide and Conquer (`recursion/`)
 *   [ ] **Recursion**
